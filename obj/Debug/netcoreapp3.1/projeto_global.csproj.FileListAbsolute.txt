@@ -1,0 +1,13 @@
+C:\Users\joaon\Desktop\projetos\projeto_global\bin\Debug\netcoreapp3.1\projeto_global.exe
+C:\Users\joaon\Desktop\projetos\projeto_global\bin\Debug\netcoreapp3.1\projeto_global.deps.json
+C:\Users\joaon\Desktop\projetos\projeto_global\bin\Debug\netcoreapp3.1\projeto_global.runtimeconfig.json
+C:\Users\joaon\Desktop\projetos\projeto_global\bin\Debug\netcoreapp3.1\projeto_global.runtimeconfig.dev.json
+C:\Users\joaon\Desktop\projetos\projeto_global\bin\Debug\netcoreapp3.1\projeto_global.dll
+C:\Users\joaon\Desktop\projetos\projeto_global\bin\Debug\netcoreapp3.1\projeto_global.pdb
+C:\Users\joaon\Desktop\projetos\projeto_global\obj\Debug\netcoreapp3.1\projeto_global.csprojAssemblyReference.cache
+C:\Users\joaon\Desktop\projetos\projeto_global\obj\Debug\netcoreapp3.1\projeto_global.AssemblyInfoInputs.cache
+C:\Users\joaon\Desktop\projetos\projeto_global\obj\Debug\netcoreapp3.1\projeto_global.AssemblyInfo.cs
+C:\Users\joaon\Desktop\projetos\projeto_global\obj\Debug\netcoreapp3.1\projeto_global.csproj.CoreCompileInputs.cache
+C:\Users\joaon\Desktop\projetos\projeto_global\obj\Debug\netcoreapp3.1\projeto_global.dll
+C:\Users\joaon\Desktop\projetos\projeto_global\obj\Debug\netcoreapp3.1\projeto_global.pdb
+C:\Users\joaon\Desktop\projetos\projeto_global\obj\Debug\netcoreapp3.1\projeto_global.genruntimeconfig.cache
